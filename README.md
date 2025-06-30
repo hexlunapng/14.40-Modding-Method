@@ -32,3 +32,6 @@ You will need a packer, like unreal pak.
 Drop your asset reg into the pak, with the GUID.
 Package it, then put it with your utoc and ucas.
 This is about all you need to do tbh. If you get any issues, it will probably be fixed in my uproject.
+
+
+# Credits to The Solaris team for the method
